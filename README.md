@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jiehlarae/product-preview-card-component-main.git)
+- Solution URL: [Add solution URL here](https://github.com/jiehlarae/product-preview-card-component-main.git) 
 - Live Site URL: [Add live site URL here](https://jiehlarae.github.io/product-preview-card-component-main/)
 
 

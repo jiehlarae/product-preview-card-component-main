@@ -94,6 +94,10 @@ button {
     justify-content: center;
 }
 
+button:hover {
+    background-color: hsl(158, 35%, 22%);
+}
+
 button span {
     margin-right: .5rem;
 }
